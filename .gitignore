@@ -2,3 +2,5 @@
 *.data
 !final.data
 results
+log_??
+!log_01
