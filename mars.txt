@@ -3,3 +3,5 @@ The planet directory contains moons directory
 Mars is cold and dry
 It has two moons, Phobus and demos
 
+It is known as the Red Planet and has appeared in 
+many fanatasy novels
